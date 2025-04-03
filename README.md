@@ -26,7 +26,11 @@ the SSH terminal so that will be able to update and install dependencies.
 
 ```
 sudo yum install curl net-tools bash
+```
+```
 sudo yum upgrade
+```
+```
 curl -O https://raw.githubusercontent.com/Bartwel27/cPanel/refs/heads/main/install.sh
 ```
 
