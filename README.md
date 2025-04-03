@@ -25,5 +25,6 @@ Access the ip address the server machine has then connect it with the secure she
 ```
 sudo yum install net-tool bash curl
 sudo yum upgrade
+curl -O https://raw.githubusercontent.com/Bartwel27/cPanel/refs/heads/main/install.sh
 ```
 
