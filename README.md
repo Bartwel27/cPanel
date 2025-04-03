@@ -22,7 +22,8 @@ PuTTY is a free and open-source software that acts as a terminal emulator, allow
 
 Access the ip address the server machine has then connect it with the secure shell SSH, then start by runing these commands
 
-```sudo yum install net-tool bash curl```
-
-```sudo yum upgrade```
+```
+sudo yum install net-tool bash curl
+sudo yum upgrade
+```
 
