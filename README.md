@@ -19,3 +19,7 @@ You can you use one these commands to install the required libraries and depende
 If maybe you are using a virture machine on you windows, you are required to install putty.
 
 PuTTY is a free and open-source software that acts as a terminal emulator, allowing users to remotely access and manage servers over various network protocols.
+
+Access the ip address the server machine has then connect it with the secure shell SSH, then start by runing these commands
+```sudo yum install net-tool bash curl```
+
