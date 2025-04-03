@@ -10,11 +10,12 @@ You can you use one these commands to install the required libraries and depende
 ## Installation
 ```nmcli d``` - this will list the networks your machine is connected to.
 
-```nmtui`` - this will open a GUI network manager, so you can edit your servers network (wired or wireless) access.
+```nmtui``` - this will open a GUI network manager, so you can edit your servers network (wired or wireless) access.
 
 ```ip a``` - this will help you access this your server ip address from client machine.
 
 ```nmcli -o``` - this check for server ip addresses
 
+If maybe you are using a virture machine on you windows, you are required to install putty.
 
-Install putty(SSH windows secure shell)
+PuTTY is a free and open-source software that acts as a terminal emulator, allowing users to remotely access and manage servers over various network protocols.
