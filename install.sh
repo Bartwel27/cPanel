@@ -1,0 +1,3 @@
+#!/sys/bin/bash
+
+clear
