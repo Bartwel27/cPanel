@@ -37,9 +37,6 @@ curl -O https://raw.githubusercontent.com/Bartwel27/cPanel/refs/heads/main/insta
 ## Network configuration
 ✅ Prerequisites
 You have root or sudo access to the server.
-
 Your system has a Wi-Fi adapter (check with ```iwconfig``` or ```ip link```).
-
-NetworkManager or wpa_supplicant is installed. If not, install one.
-
+```NetworkManager``` or ```wpa_supplicant``` is installed. If not, install one.
 You know your SSID (Wi-Fi network name) and Wi-Fi password.
