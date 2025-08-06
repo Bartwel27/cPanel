@@ -34,3 +34,4 @@ sudo yum upgrade
 curl -O https://raw.githubusercontent.com/Bartwel27/cPanel/refs/heads/main/install.sh
 ```
 
+## Network configuration
