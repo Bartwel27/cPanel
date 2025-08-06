@@ -3,10 +3,10 @@ A simple bash programe used to install cPanel on a server machine
 
 Maybe you are using one of these server machines
 - centOS server machine
-- Ubuntu seever machine
+- Ubuntu server machine
 - Cloudlinux server machine
 
-You can you use one these commands to install the required libraries and dependencies.
+You can you use one of these commands to install the required libraries and dependencies.
 ## Installation
 ```nmcli d``` - this will list the networks your machine is connected to.
 
